@@ -1,0 +1,235 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+
+nav{
+background-color: rgb(0, 0, 0);
+text-align: center;
+}
+h1{
+text-align: center;
+}
+
+
+.pagina2{
+width: 600px;    
+height: 712px;
+border: solid;
+border-color: black;
+margin: 15px 15px 15px 409px;
+padding: 10px;
+background-color:rgb(255, 255, 255);
+}
+
+.colombia1{
+width: 250px;
+height: 184px ;
+border: solid;
+border-color: black;
+margin: 30px 30px 5px 20px;
+padding: 1px;
+display: inline-block;
+vertical-align: top;  
+background-color:yellow;
+}
+.colombia1 h1{
+width: 250px;
+height: 184px ;
+margin: -9px 43px 10px 0px
+}
+.colombia2{
+width: 250px;
+height: 55px;
+margin: 75px 11px 5px -1px;
+padding: 1px;
+display: inline-block;
+background-color: blue;
+}
+.colombia3{
+width: 250px;
+height: 52px;
+margin: -9px 1px 5px -1px;
+padding: 1px;
+display: inline-block;
+background-color: red;
+}
+  
+.canada1{
+width: 250px; 
+height: 184px;
+border: solid;
+border-color: black;
+margin: 30px 30px 5px -2px;
+padding: 1px;
+display: inline-block;
+vertical-align: top;
+background-color: red;
+}
+
+.canada1 h1{
+width: 50px;
+height: 50px;
+margin: -53px 59px 70px 94px;
+}
+
+.canada2 img{
+width: 120px;
+height: 120px;
+margin: 36px 59px 70px 14px;
+}
+.canada2{
+   
+width: 144px;
+height: 184px;
+margin: -1px 49px 53px 54px;
+padding: 1px;
+display: inline-block;
+vertical-align: top;
+background-color: white; 
+}  
+
+   
+.ncorea1{
+width: 250px;
+height: 184px ;
+border: solid;
+border-color: black;
+margin: 30px 30px 5px 20px;
+padding: 1px;
+display: inline-block;
+vertical-align: top;  
+background-color: blue;
+}
+
+.ncorea1 h1{
+width: 50px;
+height: 50px;
+margin: -23px 55px 70px 68px;
+}
+.ncorea2{
+width: 249px;
+height: 124px;
+border: solid;
+border-top-color: white;
+border-block-end-color: white;
+margin: 29px 45px 47px -3px;
+padding: 1px;
+display: inline-block;
+background-color: red;
+}  
+.ncorea3{
+width: 70px;
+height: 70px;
+margin: 27px 45px 47px 42px;
+padding: 1px;
+border-radius: 50%;
+display: inline-block;
+background-color: white;
+}
+.ncorea2 img{
+width: 50px;
+height: 50px;
+margin: 9px 59px 70px 11px;
+}
+.rusia1{
+width: 250px; 
+height: 184px;
+border: solid;
+border-color: black;
+margin: 30px 30px 5px -2px;
+padding: 1px;
+display: inline-block;
+vertical-align: top;
+background-color:white;
+}
+.rusia1 h1{
+width: 50px;
+height: 50px;
+margin: -11px 55px 70px 109px;
+}
+
+.rusia2 {
+width: 250px;
+height: 62px;
+margin: 61px 11px 5px -1px;
+padding: 1px;
+display: inline-block;
+background-color: blue;
+}
+.rusia3 {
+width: 250px;
+height: 60px;
+margin: -10px 11px 5px -1px;
+padding: 1px;
+display: inline-block;
+background-color: red;
+}
+.finlandia1{
+width: 250px;
+height: 184px ;
+border: solid;
+border-color: black;
+margin: 30px 30px 5px 20px;
+padding: 1px;
+display: inline-block;
+vertical-align: top;  
+background-color:white;
+}
+
+.finlandia2 {
+width: 250px;
+height: 43px;
+margin: 61px 11px 5px -1px;
+padding: 1px;
+display: inline-block;
+background-color: blue;
+}
+.finlandia3 {
+width: 43px;
+height: 184px;
+margin: -116px 11px 5px 69px;
+padding: 1px;
+display: inline-block;
+background-color: blue;
+}
+.finlandia1 h1{
+width: 50px;
+height: 50px;
+margin: -9px 55px 70px 97px;
+}
+  
+.españa1{
+width: 250px; 
+height: 184px;
+border: solid;
+border-color: black;
+margin: 30px 30px 5px -2px;
+padding: 1px;
+display: inline-block;
+vertical-align: top;
+background-color: red;
+}
+  
+.españa2{   
+width: 250px;
+height: 111px;
+margin: 35px 49px 53px -1px;
+padding: 1px;
+display: inline-block;
+vertical-align: top;
+background-color: yellow;
+}  
+
+.españa2 img{
+width: 92px;
+height: 92px;
+margin: 6px 59px 70px 22px;
+}
+
+.españa1 h1{
+width: 50px;
+height: 50px;
+margin: -15px 55px 70px 97px;
+}
