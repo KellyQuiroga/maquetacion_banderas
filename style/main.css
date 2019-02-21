@@ -2,7 +2,18 @@
     margin: 0;
     padding: 0;
   }
-  
+  nav{
+    border: solid;
+    border-color: black;
+    background-color:red;
+    text-align: center;
+    }
+    
+    h1{
+    text-align: center;
+    }
+    
+    
   .pagina1 {
     width: 600px;
     height: 786px;
