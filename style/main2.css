@@ -19,7 +19,7 @@ text-align: center;
 
 .pagina2{
 width: 620px;    
-height: 730px;
+height: 746px;
 border: solid;
 border-color: black;
 margin: 15px 15px 15px 409px;
@@ -101,7 +101,7 @@ width: 250px;
 height: 184px ;
 border: solid;
 border-color: black;
-margin: 30px 30px 5px 20px;
+margin: 4px 30px 5px 16px;
 padding: 1px;
 display: inline-block;
 vertical-align: top;  
@@ -144,7 +144,7 @@ width: 250px;
 height: 184px;
 border: solid;
 border-color: black;
-margin: 30px 30px 5px -2px;
+margin: 4px 30px 5px -2px;
 padding: 1px;
 display: inline-block;
 vertical-align: top;
@@ -178,7 +178,7 @@ width: 250px;
 height: 184px ;
 border: solid;
 border-color: black;
-margin: 30px 30px 5px 20px;
+margin: 4px 30px 5px 16px;
 padding: 1px;
 display: inline-block;
 vertical-align: top;  
@@ -213,7 +213,7 @@ width: 250px;
 height: 184px;
 border: solid;
 border-color: black;
-margin: 30px 30px 5px -2px;
+margin: 4px 30px 5px -2px;
 padding: 1px;
 display: inline-block;
 vertical-align: top;
@@ -247,23 +247,34 @@ text-align: center;
     height: 201px;
     border: solid;
     border-color: black;
-    margin: auto;
+    margin: 9px 60px 70px 2px; ;
     padding: 10px;
     display: inline-block;
     vertical-align: top;
     background-color: rgb(255, 255, 255);
 }
 
-.cuadro1{
+.cuadro2{
     width: 594px;
     height: 201px;
     border: solid;
     border-color: black;
-    margin: auto;
+    margin: -44px 58px 70px 2px;
     padding: 10px;
     display: inline-block;
     vertical-align: top;
     background-color: rgb(255, 255, 255);
 }
 
+.cuadro3{
+    width: 594px;
+    height: 201px;
+    border: solid;
+    border-color: black;
+    margin: -44px 58px 70px 2px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgb(255, 255, 255);
+}
 
