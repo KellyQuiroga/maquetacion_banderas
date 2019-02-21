@@ -9,17 +9,13 @@
     text-align: center;
     }
     
-    h1{
-    text-align: center;
-    }
-    
     
   .pagina1 {
     width: 620px;    
     height: 746px;
     border: solid;
     border-color: black;
-    margin: 15px 15px 15px 313px;
+    margin: 15px 15px 15px 409px;
     padding: 10px;
     background-color: rgb(255,255, 255);
 }
@@ -29,11 +25,15 @@
     height: 184px;
     border: solid;
     border-color: black;
-    margin: 4px 30px 5px 16px;
+    margin:-1px 30px 5px 16px;
     padding: 1px;
     display: inline-block;
     background-color:white;
 
+}
+h5{
+    font-size: 15px;
+    margin: -12px 0px -3px 133px;
 }
 .pagina1 h2
 {
@@ -60,12 +60,16 @@
     height: 183px;
     border: solid;
     border-color: black;
-    margin: -202px 30px 5px 317px;
+    margin: -208px 30px 5px 319px;
     padding: 1px;
     display: inline-block;
     vertical-align: top;
     background-color:red;
 
+}
+h4{
+    font-size: 15px;
+    margin: -35px 0px 0px 444px;
 }
 
 .pagina1 footer nav {
@@ -100,6 +104,7 @@
     vertical-align: top;
     background-color: rgb(0, 132, 255);
 }
+
 
 .pagina1 main nav
 {
@@ -143,7 +148,7 @@
 .pagina1 section h1 img{
     width: 59px;
     height: 40px;
-    margin: -203px 32px 226px -97px;
+    margin: -203px 32px 233px 38px;
     
 }    
 .pagina1 section img{
@@ -237,6 +242,7 @@
     vertical-align: top;
     background-color: rgb(255, 255, 255);
 }
+
 .pagina1 var{
     width: 594px;
     height: 201px;
@@ -247,6 +253,10 @@
     display: inline-block;
     vertical-align: top;
     background-color: rgb(255, 255, 255);
+}
+h5{
+    font-size: 15px;
+    margin: -8px 0px -3px 133px;
 }
 .pagina1 ul{
     width: 594px;
