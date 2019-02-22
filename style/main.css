@@ -15,8 +15,6 @@
   .pagina1 {
     width: 620px;    
     height: 746px;
-    border: solid;
-    border-color: black;
     margin: 15px 15px 15px 409px;
     padding: 10px;
     background-color: rgb(255,255, 255);
@@ -160,9 +158,10 @@ h6{
 .pagina1 section h1 img{
     width: 59px;
     height: 40px;
-    margin: -170px 32px 233px 38px;
+    margin: -172px 32px 243px -104px;
+}
     
-}    
+    
 .pagina1 section img{
     width: 59px;
     height: 40px;
