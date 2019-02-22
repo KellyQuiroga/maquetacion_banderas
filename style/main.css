@@ -8,7 +8,9 @@
     background-color:red;
     text-align: center;
     }
-    
+    h1{
+        text-align: center;
+    }
     
   .pagina1 {
     width: 620px;    
@@ -69,7 +71,7 @@ h5{
 }
 h4{
     font-size: 15px;
-    margin: -35px 0px 0px 444px;
+    margin: -34px 0px -3px 439px;
 }
 
 .pagina1 footer nav {
@@ -104,7 +106,10 @@ h4{
     vertical-align: top;
     background-color: rgb(0, 132, 255);
 }
-
+h5{
+    font-size: 15px;
+    margin: -8px 0px -3px 133px;
+}
 
 .pagina1 main nav
 {
@@ -124,12 +129,13 @@ h4{
     height: 183px;
     border: solid;
     border-color: black;
-    margin: 7px 10px 5px 18px;
+    margin: -203px 10px 5px 314px;
     padding: 1px;
     display: inline-block;
     vertical-align: top;
-    background-color:white;
+    background-color: white;
 }
+
 
 .pagina1 section footer{
     width: 130px;
@@ -145,10 +151,16 @@ h4{
     vertical-align: top;
     background-color: blue;
 }
+
+h6{
+    font-size: 15px;
+    margin: -46px 0px -3px 118px;
+}
+
 .pagina1 section h1 img{
     width: 59px;
     height: 40px;
-    margin: -203px 32px 233px 38px;
+    margin: -170px 32px 233px 38px;
     
 }    
 .pagina1 section img{
@@ -179,6 +191,12 @@ h4{
     background-color: white;
 }
 
+ul p{
+    font-size: 15px;
+    margin: -161px 0px -3px 115px;
+}
+
+
 .pagina1 article nav h2{
 
     width: 255px;
@@ -206,6 +224,7 @@ h4{
     vertical-align: top;
     background-color:white;
 }
+ 
 .pagina1 h3 nav {
      
     width: 80px;
@@ -215,6 +234,8 @@ h4{
     display: inline-block;
     background-color: rgb(221, 16, 16);
     }
+    
+    
 .pagina1 h3 li{
      
     width: 80px;
@@ -268,4 +289,8 @@ h5{
     display: inline-block;
     vertical-align: top;
     background-color: rgb(255, 255, 255);
+}
+p{
+    font-size: 15px;
+    margin: -91px 0px -3px 448px;
 }
